@@ -23,7 +23,8 @@ html,body{
 }
 .container form .title{
 	font-size: 30px;
-	font-weight: 600;
+	font-weight: 500;
+	font-family: arial;
 	margin: 20px 0 10px 0;
 	position: relative;
 }
@@ -139,4 +140,8 @@ html,body{
 }
 .container .google a:hover{
 	background: linear-gradient(to right, #448448 0%,#8CB5B5 100%);
+}
+.container .login_now{
+	font-size: 12px;
+	padding-right: 0;
 }
